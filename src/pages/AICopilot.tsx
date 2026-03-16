@@ -6,7 +6,6 @@ import {
   FileText,
   BarChart3,
   Search,
-  Download,
   ChevronRight,
   User,
   Copy,
@@ -14,7 +13,6 @@ import {
   ThumbsDown,
   RotateCcw,
   TrendingUp,
-  Users,
   Calculator,
 } from 'lucide-react';
 
